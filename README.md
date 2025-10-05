@@ -19,3 +19,8 @@ Quando um pedido é criado, precisa comunicar o microsserviço de Produtos para 
 🔷 O serviço de Pedidos envia uma solicitação para o serviço de Produtos.
 
 🔷 o serviço de Produtos confirma a reserva e diminui o estoque.
+
+
+___
+https://www.cloudamqp.com/
+https://customer.cloudamqp.com/instance
